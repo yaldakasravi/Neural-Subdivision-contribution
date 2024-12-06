@@ -1,6 +1,7 @@
 This is my contrubution on paper Neural subdivisioin for the final project of IFT6113
 my training object, pkl files, out puts and my presentation can be found in the [google drive](https://drive.google.com/drive/folders/1ZwhhVmf0KjzZyn4vZDm3L2DPtZCrybvK?usp=sharing).
 
+the implementation for using quadro meshes can be found in quadro directory.
 for running the code one can follow the same procedure as bellow.
 
 
