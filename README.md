@@ -1,3 +1,8 @@
+This is my contrubution on paper Neural subdivisioin for the final project of IFT6113
+my training object, pkl files, out puts and my presentation can be found in the [google drive](https://drive.google.com/drive/folders/1ZwhhVmf0KjzZyn4vZDm3L2DPtZCrybvK?usp=sharing).
+
+
+
 ## Neural Subdivison
  
 [Neural subdivision](https://www.dgp.toronto.edu/projects/neural-subdivision/) subdivides a triangle mesh using neural networks. This is a prototype implementation in Python 3.7  with PyTorch 1.3.1 and MATLAB. The Python code requires standard dependencies (e.g., numpy), and the MATLAB code depends on [gptoolbox](https://github.com/alecjacobson/gptoolbox).
